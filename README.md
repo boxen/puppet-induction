@@ -1,15 +1,7 @@
 # Induction Puppet Module for Boxen
 
-[![Build Status](https://travis-ci.org/boxen/puppet-induction.png)](https://travis-ci.org/boxen/puppet-induction)
+Deprecated in favour of [brewcask][1] and [Boxen's in built support for
+homebrew/brewcask][2].
 
-Install [Induction](http://inductionapp.com/) via Boxen.
-
-## Usage
-
-```puppet
-include induction
-```
-
-## Required Puppet Modules
-
-* `boxen`
+[1]: https://caskroom.github.io/
+[2]: https://git.io/v6NlB
